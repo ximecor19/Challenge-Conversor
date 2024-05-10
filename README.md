@@ -1,5 +1,7 @@
 # Challenge de conversión de monedas 💵
 
+![Medallita](./imagenes/Badge-Conversor.png)
+
 Como parte de mi proceso de formación del programa de Oracle One impartido por Alura LATAM este primer challenge consiste en realizar un conversor de monedas en Java haciendo integraciones de una API llamada Exchange Rate API.
 
 🚀Conecta conmigo en LinkedIn: 
